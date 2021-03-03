@@ -1,4 +1,4 @@
-git+https://github.com/maoouu/Mashiro.py
+git+ssh://maoouu@github.com/maoouu/Mashiro.py
 psutil
 hentai
 timeago==1.0.13

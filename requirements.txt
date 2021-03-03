@@ -9,7 +9,7 @@ certifi==2020.12.5
 chardet==3.0.4
 colorama==0.4.4
 cssselect==1.1.0
-discord.py==1.7.0a2757+ga040480
+discord.py
 fake-useragent==0.1.11
 Faker==6.0.0
 hentai==3.2.4

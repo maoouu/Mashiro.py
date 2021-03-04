@@ -12,7 +12,7 @@ cssselect==1.1.0
 discord.py
 fake-useragent==0.1.11
 Faker==6.0.0
-hentai==3.2.4
+hentai
 idna==2.10
 lxml==4.6.2
 multidict==5.1.0
